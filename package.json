@@ -1,0 +1,25 @@
+{
+  "name": "electron-login",
+  "version": "1.0.0",
+  "description": "A login using electron and firebase",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Psyduckling/electron-login.git"
+  },
+  "keywords": [
+    "electron",
+    "firebase",
+    "login"
+  ],
+  "author": "George Aiken",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Psyduckling/electron-login/issues"
+  },
+  "homepage": "https://github.com/Psyduckling/electron-login#readme"
+}
