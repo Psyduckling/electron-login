@@ -1,0 +1,12 @@
+.container {
+  background-color: green;
+}
+
+body {
+  background-color: blue;
+}
+
+#sign-up-required-fields{
+  visibility: hidden;
+}
+
